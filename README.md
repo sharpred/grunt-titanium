@@ -2,6 +2,10 @@
 
 grunt plugin for titanium CLI
 
+## NB
+
+This is a monkey patched version specific to Piota. YMMV if used elsewhere.
+
 ## Getting Started
 This plugin requires Grunt `~0.4.2`
 
