@@ -1,0 +1,1 @@
+module.exports = 'test/fixtures/explicit/foo/bar.js';
