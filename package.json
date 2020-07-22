@@ -28,14 +28,14 @@
     "test": "grunt test"
   },
   "devDependencies": {
-    "grunt": "~0.4.2",
-    "grunt-contrib-clean": "~0.4.0",
-    "grunt-contrib-jshint": "~0.6.0",
-    "grunt-contrib-nodeunit": "~0.2.0",
-    "grunt-env": "^0.4.1"
+    "grunt": "^1.0.4",
+    "grunt-contrib-clean": "^2.0.0",
+    "grunt-contrib-jshint": "^2.1.0",
+    "grunt-contrib-nodeunit": "^2.0.0",
+    "grunt-env": "^1.0.1"
   },
   "peerDependencies": {
-    "grunt": "~0.4.2"
+    "grunt": "^1.0.4"
   },
   "keywords": [
     "gruntplugin",
@@ -46,9 +46,9 @@
   "dependencies": {
     "async": "~0.2.9",
     "fs-extra": "^0.11.0",
-    "lodash": "~2.4.1",
-    "recursive-readdir": "^1.2.0",
-    "titanium": "^3.2.0"
+    "lodash": "^4.17.19",
+    "recursive-readdir": "^2.2.2",
+    "titanium": "^5.2.2"
   },
   "gitHead": "b779017f5ae78df98e09cfbf210c0ac0437f868b",
   "_id": "grunt-titanium@0.3.1",
